@@ -1,0 +1,2 @@
+tabs: ['contracts/Wallet.sol']
+terminals: ['yarn install']
