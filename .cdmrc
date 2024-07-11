@@ -1,2 +1,3 @@
-tabs: ['contracts/Wallet.sol']
-terminals: ['yarn install']
+tabs: ["contracts/Wallet.sol"]
+terminals: ["bun install"]
+run-button: truffle config
